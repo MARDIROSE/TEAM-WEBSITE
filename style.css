@@ -19,6 +19,8 @@ nav a {
 
 main {
     padding: 20px;
+    max-width: 1000px;
+    margin: auto;
 }
 
 footer {
